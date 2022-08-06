@@ -18,3 +18,10 @@ public class HelloSpringApplication {
     1. 현재 본인 컴퓨터에 설치 및 설정된 JAVA 버전에 맞게 IDE 프로젝트의 JAVA 버전을 올리거나 내린다.
     2. 프로젝트 버전에 맞는 JDK를 다운받아 설치/설정 후 IDE JAVA 버전 세팅을 재설정한다.
 */
+
+/* git bash Terminal
+	1. git add . -> 수정된 파일을 추가
+	2. git status -> 상태를 확인
+	3. git commit -m "first/second/third commit" -> 히스토리를 생성
+	4. git push origin master -> 생성된 히스토리를 git으로 저장
+ */
