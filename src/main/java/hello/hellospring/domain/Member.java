@@ -5,7 +5,7 @@ public class Member {
     private Long id;
     private String name;
 
-    public void setId(Long id) {
+    public void setId(Long id) {    // get/setter 단축키 = Alt + Ins
         this.id = id;
     }
 
